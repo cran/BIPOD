@@ -1,0 +1,6 @@
+useDynLib(BIPOD)
+import(RcppArmadillo)
+exportPattern("^[[:alpha:]]+")
+
+
+
