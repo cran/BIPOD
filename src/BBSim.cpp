@@ -1,4 +1,5 @@
 #include <RcppArmadillo.h>
+
 using namespace std;
 using namespace arma;
 extern "C" SEXP BBSim(SEXP start,
